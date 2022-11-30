@@ -1,0 +1,14 @@
+[
+  {
+    "id": 4,
+    "name": "Camiseta Italia 2006",
+    "price": 12500,
+    "src": "/resources/img/product-images/camiital06.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Camiseta Argentina 89",
+    "price": 21000,
+    "src": "/resources/img/product-images/camiarg86.jpg"
+  }
+]
